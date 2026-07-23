@@ -48,7 +48,7 @@
 - [Tech Stack](#-tech-stack)
 - [Featured Projects](#-featured-projects)
 - [GitHub Analytics](#-github-analytics)
-- [Learning Roadmap](#️-learning-roadmap)
+- [Learning Roadmap](#-learning-roadmap)
 - [Certifications](#-certifications)
 - [Achievements](#-achievements)
 - [Target Role](#-target-role)
