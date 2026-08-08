@@ -153,7 +153,7 @@ Responsive recipe discovery web application featuring category-based browsing an
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<a href="https://github.com/Mounesh9">
+<a href="https://mounesh9.github.io/Food-Xpress/" target="_blank">
 <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
