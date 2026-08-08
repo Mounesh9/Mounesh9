@@ -1,17 +1,4 @@
-# 👋 Hi, I'm Mounesh
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;AI+%7C+Machine+Learning+Enthusiast;Computer+Vision+Developer;Building+Intelligent+Software" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/mounesh9">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+#
 
 ---
 
@@ -47,3 +34,86 @@ Mounesh:
     - "Python"
     - "Machine Learning"
     - "GitHub"
+```
+
+# Tech Stack
+
+### Programming
+
+### Frontend
+
+### AI & Machine Learning
+
+### Database
+
+### Analytics
+
+### Tools
+
+---
+
+# Featured Projects
+
+## 🧠 Brain Tumor Recurrence Prediction
+
+AI-powered deep learning pipeline for predicting **brain tumor recurrence** from medical imaging using computer vision techniques.
+
+**Tech Stack**
+
+
+
+
+
+
+---
+
+## ✍️ Smart Signature Verification
+
+Machine learning system for verifying handwritten signatures and distinguishing genuine signatures from forged ones using image processing.
+
+**Tech Stack**
+
+
+
+
+
+---
+
+## 🍽️ Food Xpress
+
+Responsive recipe discovery web application featuring category-based browsing and search functionality with a clean user experience.
+
+**Tech Stack**
+
+
+
+
+
+---
+
+# GitHub Analytics
+
+---
+
+# Achievements
+
+- 🎓 **B.E. Computer Science Engineering** — Nagarjuna College of Engineering and Technology
+- ⭐ **CGPA:** **9.18**
+- 📜 **NPTEL Elite Certification** — Programming in Java
+- 🌐 **Cisco Networking Academy Certifications**
+  - Data Analytics Essentials
+  - HTML & CSS Essentials
+  - JavaScript Essentials 1
+  - JavaScript Essentials 2
+- 🤖 Building practical AI and Machine Learning projects with a focus on computer vision and healthcare applications.
+- 📚 Actively expanding expertise in Deep Learning, Generative AI, and Large Language Models.
+
+---
+
+# Connect With Me
+
+---
+
+### *"Building intelligent software that transforms ideas into real-world solutions."*
+
+after clicking on view on github it should go to this link "[https://mounesh9.github.io/Food-Xpress/](https://mounesh9.github.io/Food-Xpress/)"
