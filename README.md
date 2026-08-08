@@ -137,7 +137,7 @@ Machine learning system for verifying handwritten signatures and distinguishing 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A192F?style=flat-square)
 
-<a href="https://github.com/Mounesh9">
+<a href="https://mounesh9.github.io/Smart-Signature-Verification-System/"  target="_blank">
 <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
