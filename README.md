@@ -1,10 +1,11 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Mounesh&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=58&animation=fadeIn" width="100%" alt="Mounesh Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Mounesh&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=58&animation=fadeIn" width="100%" alt="Mounesh"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mounesh;Computer+Science+Engineering+Student;Aspiring+AI+Engineer;Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+LLMs;Open+to+Internship+Opportunities" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mounesh;Computer+Science+Engineering+Student;Aspiring+AI+Engineer;Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+LLMs;Open+to+Internship+Opportunities" alt="Typing SVG"/>
 
 <br><br>
 
@@ -74,7 +75,12 @@ mounesh:
 
   contact:
     email: "m86190769@gmail.com"
+````
+
 </div>
+
+---
+
 <div align="center">
 
 ## 👨‍💻 About Me
@@ -115,11 +121,13 @@ Currently focused on strengthening my skills in **AI Engineering, Machine Learni
 ### 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
 
 ### 📊 Analytics
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
 
 ### 🔧 Tools
@@ -151,7 +159,7 @@ AI-powered deep learning project focused on predicting **brain tumor recurrence 
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a>
 
----
+<br><br>
 
 ### ✍️ Smart Signature Verification
 
@@ -169,7 +177,7 @@ Machine learning-based handwritten signature verification system designed to dis
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a>
 
----
+<br><br>
 
 ### 🍽️ Food Xpress
 
@@ -217,26 +225,27 @@ Responsive recipe discovery website featuring **search, category filtering, and 
 
 ## 🏆 Achievements
 
-🎓 **B.E. Computer Science Engineering**  
+🎓 **B.E. Computer Science Engineering**
+
 Nagarjuna College of Engineering and Technology
 
-<br>
+<br><br>
 
 ⭐ **9.18 CGPA**
 
-<br>
+<br><br>
 
 📜 **NPTEL Elite — Programming in Java**
 
-<br>
+<br><br>
 
 🌐 **Cisco Networking Academy Certifications**
 
-<br>
+<br><br>
 
 🤖 **Building practical AI and Machine Learning projects**
 
-<br>
+<br><br>
 
 💡 **Exploring Generative AI, LLMs, and AI-powered applications**
 
@@ -297,3 +306,4 @@ Nagarjuna College of Engineering and Technology
 ### 💫 Building intelligent software that turns ideas into real-world solutions.
 
 </div>
+```
