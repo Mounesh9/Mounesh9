@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Mounesh&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=58&animation=fadeIn" width="100%" alt="Mounesh"/>
