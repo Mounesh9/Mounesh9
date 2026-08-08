@@ -116,4 +116,4 @@ Responsive recipe discovery web application featuring category-based browsing an
 
 ### *"Building intelligent software that transforms ideas into real-world solutions."*
 
-after clicking on view on github it should go to this link "[https://mounesh9.github.io/Food-Xpress/](https://mounesh9.github.io/Food-Xpress/)"
+
